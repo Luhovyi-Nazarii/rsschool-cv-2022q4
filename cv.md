@@ -8,5 +8,16 @@
 - __Discord:__ Nazarii#4907
 
 ## __About Me__
-For 14 years I was in charge of a service center for the repair of mobile communications. Created and developed the website of his company [gsmrepair.com.ua](https://gsmrepair.com.ua) . Now I want to improve my skills in Front-End development, for general and my own projects.
+From 2007 to 2022, I was in charge of a mobile phone repair service center. Created and developed the website of his company [gsmrepair.com.ua](https://gsmrepair.com.ua) . Now I want to improve my skills in Front-End development, for general and my own projects.
+
+## __Skills__
+- HTML
+- CSS/SCSS/SASS
+- JavaScript (Basic)
+- jQuery (Basic)
+- Gulp 
+- Git (Basic)
+- WordPress
+
+
 

@@ -19,15 +19,15 @@ From 2007 to 2022, I was in charge of a mobile phone repair service center. Crea
 
 ## __Example Code__
 ```
-function pow(x, n) {
+function paw(x, n) {
   if (n == 1) {
     return x;
   } else {
-    return x * pow(x, n - 1);
+    return x * paw(x, n - 1);
   }
 }
 
-alert( pow(2, 3) ); // 8
+alert( paw(2, 3) ); // 8
 ```
 
 ## __Education__
@@ -40,5 +40,5 @@ alert( pow(2, 3) ); // 8
 
 ## __Languages__
 - English: A1
-- Deutsch: A2
+- German: A2
 - Russian and Ukrainian: native speaker

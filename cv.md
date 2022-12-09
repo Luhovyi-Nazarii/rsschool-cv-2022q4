@@ -13,11 +13,32 @@ From 2007 to 2022, I was in charge of a mobile phone repair service center. Crea
 ## __Skills__
 - HTML
 - CSS/SCSS/SASS
-- JavaScript (Basic)
-- jQuery (Basic)
 - Gulp 
-- Git (Basic)
+- Git
 - WordPress
 
+## __Example Code__
+```
+function pow(x, n) {
+  if (n == 1) {
+    return x;
+  } else {
+    return x * pow(x, n - 1);
+  }
+}
 
+alert( pow(2, 3) ); // 8
+```
 
+## __Education__
+- __University:__ "Kharkiv Polytechnic Institute", obtained qualification: Specialist Degree, Program Subject Area "Management of organizations and administration"
+- __Courses:__
+  - [HTML Academy](https://www.htmlacademy.ru)
+
+## __Experience__
+- Own company [gsmrepair.com.ua](https://gsmrepair.com.ua) 2007 - 2022
+
+## __Languages__
+- English: A1
+- Deutsch: A2
+- Russian and Ukrainian: native speaker

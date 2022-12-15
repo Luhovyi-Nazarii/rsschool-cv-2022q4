@@ -1,28 +1,19 @@
 :root {
 	--text: #333333;
 	--bg: #d3c7c7;
+	--font-sans-serif: "Segoe UI", "Tahoma", sans-serif;
 }
-
-/* Fonts */
-
-@font-face {
-	font-family: "Segoe UI";
-	src: url("../fonts/SegoeUI/SegoeUI-SemiBold.ttf");
-	font-weight: 600;	
-}
-
-@font-face {
-	font-family: 'Segoe UI';
-	src: url("../fonts/SegoeUI/SegoeUI.ttf");
-	font-weight: normal;
-}
-
-/* End Fonts */
 
 body {
-	font-family: "Segoe UI", "Tahoma", sans-serif;
+	font-family: var(--font-sans-serif);
   background-color: var(--bg);
 	color: var(--text);
 	font-size: 26px;
 	font-weight: normal;
+}
+
+.semi-bold {
+	/* font-family: 'system-ui'; */
+  font-style: normal;
+  font-weight: 600;
 }

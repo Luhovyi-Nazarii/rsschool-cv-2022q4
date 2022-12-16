@@ -66,18 +66,8 @@ a:hover {
   font-weight: 600;
 }
 
-.main {
-  /* margin-top: 60px; */
-  /* border: 1px solid red; */
-}
-
 .margin-nav {
   height: 100px;
-}
-
-.footer {
-  /* height: 100px; */
-  /* border: 1px solid red; */
 }
 
 .container {
@@ -121,10 +111,6 @@ a:hover {
 
 .nav-link:hover {
   color: #AFB8C1;
-}
-
-.nav-link {
-  /* transition: .3s; */
 }
 
 .section {
@@ -189,21 +175,7 @@ a:hover {
   background: #DDF4FF;
 }
 
-.section-summary {
-  /* border: 1px solid #D0D7DE; */
-  /* border-radius: 6px; */
-}
 
-
-.section-item a {
-  /* color: #829985;
-  text-decoration: none;  
-  transition: color 0.5s; */
-
-}
-.section-item a:hover {
-  /* color: #4d2323; */
-}
 
 .section-footer {
   display: flex;
@@ -236,12 +208,6 @@ a:hover {
   /* margin: -5px; */
   
  
-.footer-bl2 {
-  /* display: flex; */
-  /* align-items: center; */
-}
-
-
   
 
 .logo-github {

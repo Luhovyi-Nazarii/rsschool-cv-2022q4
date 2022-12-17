@@ -16,6 +16,8 @@ From 2007 to 2022, I was in charge of a mobile phone repair service center. Crea
 - Gulp 
 - Git
 - WordPress
+- Photoshop
+- Microelectronics: soldering, circuitry, firmware nand, eprom
 
 ## __Example Code__
 ```
@@ -34,6 +36,7 @@ alert( paw(2, 3) ); // 8
 - __University:__ "Kharkiv Polytechnic Institute", obtained qualification: Specialist Degree, Program Subject Area "Management of organizations and administration"
 - __Courses:__
   - [HTML Academy](https://www.htmlacademy.ru)
+  - [Code Basics](https://code-basics.com)
 
 ## __Experience__
 - Own company [gsmrepair.com.ua](https://gsmrepair.com.ua) 2007 - 2022
